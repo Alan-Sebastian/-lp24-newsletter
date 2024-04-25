@@ -1,1 +1,1 @@
-# -lp24-newsletter
+# lp24-newsletter
